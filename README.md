@@ -94,5 +94,5 @@ Final test set evaluation for the **Standard UNet with Skip Connections**:
 3. Fan, D.P., et al. (2020). PraNet: Parallel Reverse Attention Network for Polyp Segmentation. MICCAI 2020.
 
 ## License
-This project is for educational purposes as part of a Deep Learning course at Drexel University.
+This project is for educational purposes as part of Deep Learning course at Drexel University.
 
