@@ -93,6 +93,5 @@ Final test set evaluation for the **Standard UNet with Skip Connections**:
 2. Jha, D., et al. (2020). Kvasir-SEG: A Segmented Polyp Dataset. MMM 2020.
 3. Fan, D.P., et al. (2020). PraNet: Parallel Reverse Attention Network for Polyp Segmentation. MICCAI 2020.
 
-## License
-This project is for educational purposes as part of Deep Learning course at Drexel University.
+
 
