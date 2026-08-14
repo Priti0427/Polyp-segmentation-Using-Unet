@@ -4,7 +4,7 @@ A deep learning project implementing UNet architecture for automated polyp segme
 
 ## Problem Statement
 
-Colorectal cancer is the 3rd most common cancer worldwide. During colonoscopy procedures, 14-30% of polyps are missed by physicians. This project aims to build an automated polyp segmentation system to assist doctors in identifying polyp boundaries accurately.
+Colorectal cancer is the 3rd most common cancer worldwide. Studies show that during colonoscopy procedures, 14-30% of polyps are missed by physicians. This project aims to build an automated polyp segmentation system to assist doctors in identifying polyp boundaries accurately.
 
 ## Dataset
 
