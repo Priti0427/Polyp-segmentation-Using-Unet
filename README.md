@@ -75,7 +75,7 @@ polyp-segmentation-unet/
 
 ## Results
 
-Final test set evaluation for the **Standard UNet with Skip Connections**:
+Final test dataset evaluation for the **Standard UNet with Skip Connections**:
 
 | Metric | Value |
 |--------|-------|
@@ -92,6 +92,3 @@ Final test set evaluation for the **Standard UNet with Skip Connections**:
 1. Ronneberger, O., Fischer, P., & Brox, T. (2015). U-Net: Convolutional Networks for Biomedical Image Segmentation. MICCAI.
 2. Jha, D., et al. (2020). Kvasir-SEG: A Segmented Polyp Dataset. MMM 2020.
 3. Fan, D.P., et al. (2020). PraNet: Parallel Reverse Attention Network for Polyp Segmentation. MICCAI 2020.
-
-
-
